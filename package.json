@@ -7,10 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/postlight/mercury-parser.git"
-  },
-  "bugs": {
-    "url": "https://github.com/postlight/mercury-parser/issues"
+    "url": "git+https://github.com/atomicjets/mercury-parser.git"
   },
   "keywords": [
     "mercury",
